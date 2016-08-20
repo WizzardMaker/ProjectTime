@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <ImageView
+        p1:src="@drawable/iconsmall"
+        p1:layout_width="55dp"
+        p1:layout_height="55dp"
+        p1:id="@+id/imageView1"
+        p1:layout_centerHorizontal="true"
+        p1:layout_alignParentBottom="true"
+        p1:layout_marginBottom="75dp" />
+    <ImageView
+        p1:src="@drawable/textlogo"
+        p1:layout_width="250dp"
+        p1:layout_height="200dp"
+        p1:id="@+id/imageView2"
+        p1:layout_centerHorizontal="true"
+        p1:layout_marginTop="70dp" />
+    <TextView
+        p1:text="Published by Daniel Schoenwald Made by Jonas Schoenwald"
+        p1:layout_width="260dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textView1"
+        p1:textColor="@android:color/darker_gray"
+        p1:layout_centerHorizontal="true"
+        p1:layout_alignParentBottom="true"
+        p1:layout_marginBottom="40.0dp"
+        p1:lines="2"
+        p1:typeface="monospace"
+        p1:gravity="center" />
+    <ProgressBar
+        p1:layout_width="45dp"
+        p1:layout_height="45dp"
+        style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Inverse"
+        p1:id="@+id/progressBar1"
+        p1:indeterminateTint="#000000"
+        p1:layout_centerHorizontal="true"
+        p1:indeterminate="true"
+        p1:progressBackgroundTint="#006400ff"
+        p1:mirrorForRtl="true"
+        p1:layout_above="@+id/imageView1"
+        p1:layout_marginBottom="60dp" />
+</RelativeLayout>

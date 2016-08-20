@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hallo Welt</string>
+  
+    <string name="GetPhoto">Bild!</string>
+  
+    <string name="ApplicationName">ProjectTime</string>
+
+  <string name="AddName">Name des Ereignisses:</string>
+  <string name="AddType">Typ des Ereignisses:</string>
+  <string name="AddDate">Datum auswählen:</string>
+  <string name="AddSubmit">Hinzufügen</string>
+</resources>
