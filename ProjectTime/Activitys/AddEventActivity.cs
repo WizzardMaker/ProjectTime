@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Reflection;
 
 using Android.App;
 using Android.Content;
@@ -10,6 +11,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.Views.InputMethods;
+
+using ProjectTime.Adapter;
 
 namespace ProjectTime.Activitys {
 	[Activity(Label = "AddEventActivity", Theme = "@style/Theme.AppCompat.Light")]
@@ -79,7 +82,16 @@ namespace ProjectTime.Activitys {
 				StartActivity(intent);
 				Finish();
 			};
-			// Create your application here
+
+			Spinner pickType = FindViewById<Spinner>(Resource.Id.spinner1);
+
+
+			List<string> types = new List<string>();
+			foreach (string type in typeof(DateAdapterItem.DateTypes).GetEnumNames()) {
+				types.Add(GetString((int)typeof(Resource.String).GetFields().First((FieldInfo f) => { return f.Name == "Type" + type; }).GetRawConstantValue()));
+			}
+
+			pickType.Adapter = new ArrayAdapter<string>(this, Resource.Layout.SpinnerItem, types);
 		}
 
 		private void _listener(object sender, DatePickerDialog.DateSetEventArgs e) {

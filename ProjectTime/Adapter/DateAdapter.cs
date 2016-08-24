@@ -95,7 +95,7 @@ namespace ProjectTime.Adapter {
 				}else if(items[position].type == DateAdapterItem.DateTypes.Anniversary) {
 
 
-					timeLeft.Text = items[position].date.Subtract(DateTime.Today).Days.ToString() + " " + arrowUp; 
+					timeLeft.Text = DateTime.Today.Subtract( items[position].date).Days.ToString() + " " + arrowUp; 
 
 				}
 

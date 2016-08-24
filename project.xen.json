@@ -1,0 +1,10 @@
+{
+  "schema": "https://schemas.xenforms.com/xenproject/v1/",
+  "assemblies": [
+    {
+      "include": true,
+      "relativePath": "\\ProjectTime\\bin\\Debug\\ProjectTime.dll"
+    }
+  ],
+  "views": null
+}

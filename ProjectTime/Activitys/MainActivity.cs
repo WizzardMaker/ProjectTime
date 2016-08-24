@@ -43,7 +43,7 @@ namespace ProjectTime.Activitys {
 
 			if (items == null) {
 				items = new List<DateAdapterItem> {
-					new DateAdapterItem("Meine Ereignisse",new DateTime(2016,8,15), DateAdapterItem.DateTypes.Birthday),
+					new DateAdapterItem("Meine Ereignisse",new DateTime(2016,8,15), DateAdapterItem.DateTypes.Anniversary),
 				};
 			}
 

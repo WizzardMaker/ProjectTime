@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <Toolbar
+    <android.support.v7.widget.Toolbar
         android:background="@android:color/holo_blue_bright"
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
@@ -26,7 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/buttonReturn" />
-    </Toolbar>
+    </android.support.v7.widget.Toolbar>
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -78,6 +78,30 @@
                 android:id="@+id/buttonDatePick"
                 android:textColor="@android:color/holo_blue_light"
                 android:layout_gravity="center" />
+        </GridLayout>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:id="@+id/border2"
+            android:background="#32000000"
+            android:layout_marginStart="15dp" />
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/gridAddDateLayout"
+            android:rowCount="1"
+            android:columnCount="2">
+            <TextView
+                android:id="@+id/textViewType"
+                android:text="@string/AddType"
+                android:layout_marginStart="15dp"
+                android:textSize="20dp"
+                android:layout_gravity="center_vertical" />
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_gravity="fill"
+                android:theme="@android:style/Widget.Material.Spinner"
+                android:textAlignment="center" />
         </GridLayout>
         <ImageView
             android:layout_width="match_parent"

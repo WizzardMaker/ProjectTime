@@ -10,4 +10,10 @@
   <string name="AddType">Typ des Ereignisses:</string>
   <string name="AddDate">Datum auswählen:</string>
   <string name="AddSubmit">Hinzufügen</string>
+
+
+  <string name="TypeEvent">Event</string>
+  <string name="TypeBirthday">Geburtstag</string>
+  <string name="TypeEvent">Event</string>
+  <string name="TypeAnniversary">Jahrestag</string>
 </resources>

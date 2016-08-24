@@ -1843,8 +1843,8 @@ namespace ProjectTime
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060089
-			public const int action0 = 2131099785;
+			// aapt resource value: 0x7f06008b
+			public const int action0 = 2131099787;
 			
 			// aapt resource value: 0x7f06005a
 			public const int action_bar = 2131099738;
@@ -1870,8 +1870,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06005b
 			public const int action_context_bar = 2131099739;
 			
-			// aapt resource value: 0x7f06008d
-			public const int action_divider = 2131099789;
+			// aapt resource value: 0x7f06008f
+			public const int action_divider = 2131099791;
 			
 			// aapt resource value: 0x7f060003
 			public const int action_menu_divider = 2131099651;
@@ -1918,14 +1918,14 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06006b
 			public const int buttonReturn = 2131099755;
 			
-			// aapt resource value: 0x7f06007c
-			public const int buttonSetDate = 2131099772;
+			// aapt resource value: 0x7f06007e
+			public const int buttonSetDate = 2131099774;
 			
 			// aapt resource value: 0x7f06006a
 			public const int buttonSubmit = 2131099754;
 			
-			// aapt resource value: 0x7f06008a
-			public const int cancel_action = 2131099786;
+			// aapt resource value: 0x7f06008c
+			public const int cancel_action = 2131099788;
 			
 			// aapt resource value: 0x7f06002b
 			public const int center = 2131099691;
@@ -1939,8 +1939,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060052
 			public const int checkbox = 2131099730;
 			
-			// aapt resource value: 0x7f060090
-			public const int chronometer = 2131099792;
+			// aapt resource value: 0x7f060092
+			public const int chronometer = 2131099794;
 			
 			// aapt resource value: 0x7f060033
 			public const int clip_horizontal = 2131099699;
@@ -1960,11 +1960,11 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06004f
 			public const int customPanel = 2131099727;
 			
-			// aapt resource value: 0x7f06007b
-			public const int datePicker1 = 2131099771;
+			// aapt resource value: 0x7f06007d
+			public const int datePicker1 = 2131099773;
 			
-			// aapt resource value: 0x7f060087
-			public const int dateView = 2131099783;
+			// aapt resource value: 0x7f060089
+			public const int dateView = 2131099785;
 			
 			// aapt resource value: 0x7f060058
 			public const int decor_content_parent = 2131099736;
@@ -1972,20 +1972,20 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060040
 			public const int default_activity_button = 2131099712;
 			
-			// aapt resource value: 0x7f06007e
-			public const int design_bottom_sheet = 2131099774;
+			// aapt resource value: 0x7f060080
+			public const int design_bottom_sheet = 2131099776;
+			
+			// aapt resource value: 0x7f060087
+			public const int design_menu_item_action_area = 2131099783;
+			
+			// aapt resource value: 0x7f060086
+			public const int design_menu_item_action_area_stub = 2131099782;
 			
 			// aapt resource value: 0x7f060085
-			public const int design_menu_item_action_area = 2131099781;
+			public const int design_menu_item_text = 2131099781;
 			
 			// aapt resource value: 0x7f060084
-			public const int design_menu_item_action_area_stub = 2131099780;
-			
-			// aapt resource value: 0x7f060083
-			public const int design_menu_item_text = 2131099779;
-			
-			// aapt resource value: 0x7f060082
-			public const int design_navigation_view = 2131099778;
+			public const int design_navigation_view = 2131099780;
 			
 			// aapt resource value: 0x7f06000e
 			public const int disableHome = 2131099662;
@@ -1999,8 +1999,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06001c
 			public const int end = 2131099676;
 			
-			// aapt resource value: 0x7f060095
-			public const int end_padder = 2131099797;
+			// aapt resource value: 0x7f060097
+			public const int end_padder = 2131099799;
 			
 			// aapt resource value: 0x7f060023
 			public const int enterAlways = 2131099683;
@@ -2017,8 +2017,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060051
 			public const int expanded_menu = 2131099729;
 			
-			// aapt resource value: 0x7f060088
-			public const int fab = 2131099784;
+			// aapt resource value: 0x7f06008a
+			public const int fab = 2131099786;
 			
 			// aapt resource value: 0x7f060035
 			public const int fill = 2131099701;
@@ -2038,11 +2038,11 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06006c
 			public const int gridAddNameLayout = 2131099756;
 			
-			// aapt resource value: 0x7f060086
-			public const int gridLayout = 2131099782;
+			// aapt resource value: 0x7f060088
+			public const int gridLayout = 2131099784;
 			
-			// aapt resource value: 0x7f060074
-			public const int gridLayout1 = 2131099764;
+			// aapt resource value: 0x7f060076
+			public const int gridLayout1 = 2131099766;
 			
 			// aapt resource value: 0x7f060005
 			public const int home = 2131099653;
@@ -2059,17 +2059,17 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06003f
 			public const int image = 2131099711;
 			
-			// aapt resource value: 0x7f060076
-			public const int imageType = 2131099766;
+			// aapt resource value: 0x7f060078
+			public const int imageType = 2131099768;
 			
-			// aapt resource value: 0x7f060097
-			public const int imageView1 = 2131099799;
+			// aapt resource value: 0x7f060099
+			public const int imageView1 = 2131099801;
 			
-			// aapt resource value: 0x7f060098
-			public const int imageView2 = 2131099800;
+			// aapt resource value: 0x7f06009a
+			public const int imageView2 = 2131099802;
 			
-			// aapt resource value: 0x7f060094
-			public const int info = 2131099796;
+			// aapt resource value: 0x7f060096
+			public const int info = 2131099798;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
@@ -2077,17 +2077,17 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06002f
 			public const int left = 2131099695;
 			
-			// aapt resource value: 0x7f06008e
-			public const int line1 = 2131099790;
+			// aapt resource value: 0x7f060090
+			public const int line1 = 2131099792;
 			
-			// aapt resource value: 0x7f060092
-			public const int line3 = 2131099794;
-			
-			// aapt resource value: 0x7f060075
-			public const int linearLayout1 = 2131099765;
+			// aapt resource value: 0x7f060094
+			public const int line3 = 2131099796;
 			
 			// aapt resource value: 0x7f060077
-			public const int linearLayout2 = 2131099767;
+			public const int linearLayout1 = 2131099767;
+			
+			// aapt resource value: 0x7f060079
+			public const int linearLayout2 = 2131099769;
 			
 			// aapt resource value: 0x7f06000b
 			public const int listMode = 2131099659;
@@ -2095,8 +2095,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060041
 			public const int list_item = 2131099713;
 			
-			// aapt resource value: 0x7f06008c
-			public const int media_actions = 2131099788;
+			// aapt resource value: 0x7f06008e
+			public const int media_actions = 2131099790;
 			
 			// aapt resource value: 0x7f06001d
 			public const int middle = 2131099677;
@@ -2107,8 +2107,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060016
 			public const int multiply = 2131099670;
 			
-			// aapt resource value: 0x7f060081
-			public const int navigation_header_container = 2131099777;
+			// aapt resource value: 0x7f060083
+			public const int navigation_header_container = 2131099779;
 			
 			// aapt resource value: 0x7f060021
 			public const int never = 2131099681;
@@ -2128,8 +2128,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060029
 			public const int pin = 2131099689;
 			
-			// aapt resource value: 0x7f06009a
-			public const int progressBar1 = 2131099802;
+			// aapt resource value: 0x7f06009c
+			public const int progressBar1 = 2131099804;
 			
 			// aapt resource value: 0x7f060006
 			public const int progress_circular = 2131099654;
@@ -2140,8 +2140,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060054
 			public const int radio = 2131099732;
 			
-			// aapt resource value: 0x7f060096
-			public const int relativeLayout1 = 2131099798;
+			// aapt resource value: 0x7f060098
+			public const int relativeLayout1 = 2131099800;
 			
 			// aapt resource value: 0x7f060030
 			public const int right = 2131099696;
@@ -2209,17 +2209,20 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060013
 			public const int showTitle = 2131099667;
 			
-			// aapt resource value: 0x7f060080
-			public const int snackbar_action = 2131099776;
+			// aapt resource value: 0x7f060082
+			public const int snackbar_action = 2131099778;
 			
-			// aapt resource value: 0x7f06007f
-			public const int snackbar_text = 2131099775;
+			// aapt resource value: 0x7f060081
+			public const int snackbar_text = 2131099777;
 			
 			// aapt resource value: 0x7f060027
 			public const int snap = 2131099687;
 			
 			// aapt resource value: 0x7f060045
 			public const int spacer = 2131099717;
+			
+			// aapt resource value: 0x7f060075
+			public const int spinner1 = 2131099765;
 			
 			// aapt resource value: 0x7f060008
 			public const int split_action_bar = 2131099656;
@@ -2236,8 +2239,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060031
 			public const int start = 2131099697;
 			
-			// aapt resource value: 0x7f06008b
-			public const int status_bar_latest_event_content = 2131099787;
+			// aapt resource value: 0x7f06008d
+			public const int status_bar_latest_event_content = 2131099789;
 			
 			// aapt resource value: 0x7f060065
 			public const int submit_area = 2131099749;
@@ -2245,26 +2248,26 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06000d
 			public const int tabMode = 2131099661;
 			
+			// aapt resource value: 0x7f060095
+			public const int text = 2131099797;
+			
 			// aapt resource value: 0x7f060093
-			public const int text = 2131099795;
+			public const int text2 = 2131099795;
 			
-			// aapt resource value: 0x7f060091
-			public const int text2 = 2131099793;
+			// aapt resource value: 0x7f06007b
+			public const int textDate = 2131099771;
 			
-			// aapt resource value: 0x7f060079
-			public const int textDate = 2131099769;
-			
-			// aapt resource value: 0x7f060078
-			public const int textName = 2131099768;
+			// aapt resource value: 0x7f06007a
+			public const int textName = 2131099770;
 			
 			// aapt resource value: 0x7f06004d
 			public const int textSpacerNoButtons = 2131099725;
 			
-			// aapt resource value: 0x7f06007a
-			public const int textTimeLeft = 2131099770;
+			// aapt resource value: 0x7f06007c
+			public const int textTimeLeft = 2131099772;
 			
-			// aapt resource value: 0x7f060099
-			public const int textView1 = 2131099801;
+			// aapt resource value: 0x7f06009b
+			public const int textView1 = 2131099803;
 			
 			// aapt resource value: 0x7f060071
 			public const int textViewDate = 2131099761;
@@ -2272,8 +2275,11 @@ namespace ProjectTime
 			// aapt resource value: 0x7f06006d
 			public const int textViewName = 2131099757;
 			
-			// aapt resource value: 0x7f06008f
-			public const int time = 2131099791;
+			// aapt resource value: 0x7f060074
+			public const int textViewType = 2131099764;
+			
+			// aapt resource value: 0x7f060091
+			public const int time = 2131099793;
 			
 			// aapt resource value: 0x7f060043
 			public const int title = 2131099715;
@@ -2290,8 +2296,8 @@ namespace ProjectTime
 			// aapt resource value: 0x7f060047
 			public const int topPanel = 2131099719;
 			
-			// aapt resource value: 0x7f06007d
-			public const int touch_outside = 2131099773;
+			// aapt resource value: 0x7f06007f
+			public const int touch_outside = 2131099775;
 			
 			// aapt resource value: 0x7f060009
 			public const int up = 2131099657;
@@ -2512,13 +2518,16 @@ namespace ProjectTime
 			public const int select_dialog_singlechoice_material = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int Start = 2130903092;
+			public const int SpinnerItem = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int support_simple_spinner_dropdown_item = 2130903093;
+			public const int Start = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int ToolbarSample = 2130903094;
+			public const int support_simple_spinner_dropdown_item = 2130903094;
+			
+			// aapt resource value: 0x7f030037
+			public const int ToolbarSample = 2130903095;
 			
 			static Layout()
 			{
@@ -2553,6 +2562,15 @@ namespace ProjectTime
 			
 			// aapt resource value: 0x7f070017
 			public const int Hello = 2131165207;
+			
+			// aapt resource value: 0x7f070020
+			public const int TypeAnniversary = 2131165216;
+			
+			// aapt resource value: 0x7f07001f
+			public const int TypeBirthday = 2131165215;
+			
+			// aapt resource value: 0x7f07001e
+			public const int TypeEvent = 2131165214;
 			
 			// aapt resource value: 0x7f070000
 			public const int abc_action_bar_home_description = 2131165184;
